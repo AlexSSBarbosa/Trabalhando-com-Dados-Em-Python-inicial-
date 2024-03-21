@@ -78,7 +78,7 @@ if os.path.isfile('dados_de_lojas.txt'):
     pass
 else: 
     dadosloja= open("dados_de_lojas.txt","w")
-    cabeca = "Loja, Estado, Região, Meta de Vendas \n"
+    cabeca = "Loja,Estado,Região,Meta de Vendas \n"
     dadosloja.write(cabeca)
     for n in range(num_lojas):
         i = random.randint(0,25)
@@ -97,7 +97,7 @@ else:
         else: 
             pass
         
-        info_lojas = "Loja " + str(n+1)+ ", " + estados[i] + ", " + regiao + ", " + str(metas[k]) + "\n"
+        info_lojas = "Loja " + str(n+1)+ "," + estados[i] + "," + regiao + "," + str(metas[k]) + "\n"
         dadosloja.write(info_lojas)
         dadosloja.closed
 

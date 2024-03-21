@@ -1,0 +1,1001 @@
+Loja,Estado,Região,Valor vendido,Meta de Vendas
+Loja 1,Maranhão,Nordeste,6074.15,7000
+Loja 2,Amazonas,Norte,7081.31,7500
+Loja 3,São Paulo,Sudeste,8821.16,8500
+Loja 4,Minas Gerais,Sudeste,9284.39,7000
+Loja 5,Pernambuco,Nordeste,8489.19,8000
+Loja 6,Bahia,Nordeste,6020.63,8200
+Loja 7,Paraíba,Nordeste,7854.08,7200
+Loja 8,Roraima,Norte,7692.74,7800
+Loja 9,Santa Catarina,Sul,9862.7,7200
+Loja 10,Sergipe,Nordeste,8859.95,7800
+Loja 11,Sergipe,Nordeste,9095.69,7200
+Loja 12,Pernambuco,Nordeste,8222.74,8000
+Loja 13,Amapá,Norte,8969.72,8000
+Loja 14,Rio Grande do Sul,Sul,9105.7,7200
+Loja 15,Espírito Santo,Sudeste,9145.46,7200
+Loja 16,Ceará,Nordeste,9702.05,7000
+Loja 17,Pará,Norte,8586.64,8200
+Loja 18,Mato Grosso,Centro-Oeste,7159.81,8000
+Loja 19,Paraná,Sul,7836.68,7500
+Loja 20,Minas Gerais,Sudeste,9231.82,8200
+Loja 21,Paraíba,Nordeste,8631.96,8500
+Loja 22,Mato Grosso do Sul,Centro-Oeste,9411.08,8000
+Loja 23,Rondônia,Norte,6310.03,7800
+Loja 24,Santa Catarina,Sul,6950.6,8500
+Loja 25,Ceará,Nordeste,6150.91,7000
+Loja 26,Mato Grosso,Centro-Oeste,6356.62,7800
+Loja 27,Piauí,Nordeste,7605.67,8000
+Loja 28,Espírito Santo,Sudeste,6404.78,8200
+Loja 29,Maranhão,Nordeste,7906.38,7500
+Loja 30,Amapá,Norte,9215.23,7500
+Loja 31,Roraima,Norte,8415.51,8200
+Loja 32,Alagoas,Nordeste,8944.89,7000
+Loja 33,Amazonas,Norte,9044.48,7000
+Loja 34,Maranhão,Nordeste,9623.69,7000
+Loja 35,Pernambuco,Nordeste,8021.47,8000
+Loja 36,Ceará,Nordeste,8726.65,8500
+Loja 37,Piauí,Nordeste,6613.51,7500
+Loja 38,Rio Grande do Sul,Sul,7640.44,8000
+Loja 39,Piauí,Nordeste,8652.3,8000
+Loja 40,Roraima,Norte,7940.22,8200
+Loja 41,Rio Grande do Sul,Sul,9467.18,8200
+Loja 42,Paraíba,Nordeste,6444.74,7000
+Loja 43,Piauí,Nordeste,6963.93,7200
+Loja 44,São Paulo,Sudeste,7740.35,7200
+Loja 45,Amapá,Norte,9237.1,7000
+Loja 46,Santa Catarina,Sul,8583.4,7500
+Loja 47,Sergipe,Nordeste,7814.3,7800
+Loja 48,Tocantins,Norte,9451.26,8000
+Loja 49,Ceará,Nordeste,9134.23,8000
+Loja 50,Santa Catarina,Sul,7276.98,8000
+Loja 51,Rondônia,Norte,6126.6,8000
+Loja 52,Pernambuco,Nordeste,6708.99,8000
+Loja 53,Alagoas,Nordeste,6265.91,8200
+Loja 54,Maranhão,Nordeste,7170.14,7800
+Loja 55,Paraná,Sul,7442.48,8500
+Loja 56,Espírito Santo,Sudeste,6947.3,7800
+Loja 57,Maranhão,Nordeste,8983.28,7800
+Loja 58,Bahia,Nordeste,9256.58,7500
+Loja 59,Pará,Norte,9431.61,8200
+Loja 60,Roraima,Norte,9803.64,7000
+Loja 61,Paraíba,Nordeste,6100.99,8200
+Loja 62,Amapá,Norte,6836.12,7800
+Loja 63,Mato Grosso,Centro-Oeste,7713.34,7800
+Loja 64,Bahia,Nordeste,9340.46,8000
+Loja 65,Rio de Janeiro,Sudeste,8788.5,8500
+Loja 66,Mato Grosso,Centro-Oeste,8220.82,7000
+Loja 67,Paraná,Sul,7154.67,7200
+Loja 68,Pernambuco,Nordeste,7589.79,8500
+Loja 69,Mato Grosso,Centro-Oeste,7054.17,7500
+Loja 70,Bahia,Nordeste,9631.21,7000
+Loja 71,Rio Grande do Norte,Nordeste,8305.48,7800
+Loja 72,Maranhão,Nordeste,7416.52,7500
+Loja 73,Roraima,Norte,7192.48,8500
+Loja 74,Alagoas,Nordeste,6553.13,7200
+Loja 75,Minas Gerais,Sudeste,8244.99,8200
+Loja 76,Santa Catarina,Sul,9686.29,7800
+Loja 77,Amapá,Norte,7368.77,7200
+Loja 78,Goiás,Centro-Oeste,8207.01,7000
+Loja 79,Ceará,Nordeste,8283.08,8000
+Loja 80,Roraima,Norte,6446.47,7000
+Loja 81,Goiás,Centro-Oeste,8949.96,7000
+Loja 82,Rio de Janeiro,Sudeste,8657.14,7200
+Loja 83,Paraíba,Nordeste,6576.89,8200
+Loja 84,Paraíba,Nordeste,6903.36,7000
+Loja 85,Santa Catarina,Sul,8083.84,7000
+Loja 86,Alagoas,Nordeste,9874.05,8200
+Loja 87,Mato Grosso do Sul,Centro-Oeste,7933.3,8500
+Loja 88,Mato Grosso,Centro-Oeste,9408.72,8000
+Loja 89,Minas Gerais,Sudeste,8814.22,8000
+Loja 90,Mato Grosso,Centro-Oeste,8624.73,8000
+Loja 91,Amapá,Norte,6226.93,7800
+Loja 92,Ceará,Nordeste,8415.15,8500
+Loja 93,Rio Grande do Norte,Nordeste,6160.95,7800
+Loja 94,Pará,Norte,8904.81,7800
+Loja 95,Amazonas,Norte,7109.83,8000
+Loja 96,Mato Grosso,Centro-Oeste,8975.78,7800
+Loja 97,Pará,Norte,6878.95,7800
+Loja 98,Amapá,Norte,9974.73,7800
+Loja 99,Maranhão,Nordeste,8951.75,7800
+Loja 100,Pernambuco,Nordeste,7122.97,8500
+Loja 101,Bahia,Nordeste,7292.18,7000
+Loja 102,Amapá,Norte,9448.19,8000
+Loja 103,Acre,Norte,9411.42,7800
+Loja 104,Acre,Norte,6028.69,7500
+Loja 105,Ceará,Nordeste,9205.26,7200
+Loja 106,Paraíba,Nordeste,6401.99,8000
+Loja 107,Bahia,Nordeste,7165.54,8000
+Loja 108,Goiás,Centro-Oeste,6483.42,7800
+Loja 109,Paraíba,Nordeste,8987.1,7000
+Loja 110,Pernambuco,Nordeste,8602.71,7500
+Loja 111,Rondônia,Norte,7725.2,7000
+Loja 112,Paraíba,Nordeste,8092.65,7200
+Loja 113,Maranhão,Nordeste,9433.3,7200
+Loja 114,Espírito Santo,Sudeste,6261.47,8000
+Loja 115,Minas Gerais,Sudeste,8336.06,8000
+Loja 116,Sergipe,Nordeste,9974.99,8000
+Loja 117,Santa Catarina,Sul,6217.2,7200
+Loja 118,Espírito Santo,Sudeste,7179.81,7000
+Loja 119,Rio de Janeiro,Sudeste,9805.04,8500
+Loja 120,Bahia,Nordeste,7855.0,7000
+Loja 121,Rondônia,Norte,6408.01,8000
+Loja 122,Espírito Santo,Sudeste,7190.28,7000
+Loja 123,Ceará,Nordeste,6557.4,7800
+Loja 124,São Paulo,Sudeste,8897.41,8200
+Loja 125,Espírito Santo,Sudeste,9715.57,7500
+Loja 126,Paraná,Sul,6344.59,7500
+Loja 127,Maranhão,Nordeste,9270.73,7500
+Loja 128,Amazonas,Norte,9175.12,8200
+Loja 129,Rio de Janeiro,Sudeste,7016.07,8500
+Loja 130,Rio de Janeiro,Sudeste,9408.73,7500
+Loja 131,Paraíba,Nordeste,9620.52,7000
+Loja 132,Amapá,Norte,7838.33,7500
+Loja 133,Alagoas,Nordeste,7012.46,7500
+Loja 134,Rio Grande do Norte,Nordeste,6168.08,8500
+Loja 135,Amapá,Norte,7138.55,7500
+Loja 136,Rondônia,Norte,8342.49,7000
+Loja 137,Bahia,Nordeste,7653.85,7800
+Loja 138,Bahia,Nordeste,6875.72,8500
+Loja 139,Ceará,Nordeste,8661.33,7800
+Loja 140,Minas Gerais,Sudeste,7285.92,7000
+Loja 141,Amapá,Norte,6508.88,8000
+Loja 142,Minas Gerais,Sudeste,9901.18,8500
+Loja 143,Espírito Santo,Sudeste,6010.95,7000
+Loja 144,Rio Grande do Norte,Nordeste,7871.08,7200
+Loja 145,Maranhão,Nordeste,7766.46,8500
+Loja 146,Minas Gerais,Sudeste,9886.26,7500
+Loja 147,Rio Grande do Norte,Nordeste,8562.98,8500
+Loja 148,Roraima,Norte,8209.1,8000
+Loja 149,Ceará,Nordeste,8091.23,7000
+Loja 150,Ceará,Nordeste,8912.93,7000
+Loja 151,Mato Grosso,Centro-Oeste,8258.66,7500
+Loja 152,Amazonas,Norte,6527.98,7800
+Loja 153,Goiás,Centro-Oeste,7236.95,7000
+Loja 154,Mato Grosso,Centro-Oeste,7826.18,7500
+Loja 155,São Paulo,Sudeste,6712.54,8500
+Loja 156,Espírito Santo,Sudeste,7612.47,8200
+Loja 157,Amazonas,Norte,7874.78,7500
+Loja 158,Rio Grande do Norte,Nordeste,9002.83,7200
+Loja 159,Rondônia,Norte,8592.91,7800
+Loja 160,Minas Gerais,Sudeste,7875.4,7000
+Loja 161,Espírito Santo,Sudeste,6325.28,8000
+Loja 162,Minas Gerais,Sudeste,7997.22,8200
+Loja 163,Roraima,Norte,8644.83,8500
+Loja 164,Maranhão,Nordeste,9966.9,7500
+Loja 165,Pará,Norte,9616.65,7200
+Loja 166,Rio de Janeiro,Sudeste,7225.56,7800
+Loja 167,Roraima,Norte,6299.0,8500
+Loja 168,Pará,Norte,6248.74,7800
+Loja 169,Goiás,Centro-Oeste,7400.45,7500
+Loja 170,Rio Grande do Sul,Sul,9809.39,8500
+Loja 171,Mato Grosso,Centro-Oeste,6155.65,7000
+Loja 172,Santa Catarina,Sul,6216.95,7500
+Loja 173,Minas Gerais,Sudeste,6775.36,8000
+Loja 174,Espírito Santo,Sudeste,8219.21,8200
+Loja 175,Amapá,Norte,9330.03,7200
+Loja 176,Amazonas,Norte,8347.72,7000
+Loja 177,Paraíba,Nordeste,6610.79,7800
+Loja 178,Alagoas,Nordeste,7760.18,7800
+Loja 179,Pernambuco,Nordeste,8620.03,8000
+Loja 180,Pará,Norte,6606.98,7500
+Loja 181,Ceará,Nordeste,9600.82,8500
+Loja 182,Mato Grosso do Sul,Centro-Oeste,9226.36,8500
+Loja 183,Alagoas,Nordeste,9248.28,7500
+Loja 184,Amapá,Norte,8086.83,7800
+Loja 185,Piauí,Nordeste,8086.62,8500
+Loja 186,Rio de Janeiro,Sudeste,6412.3,8500
+Loja 187,Tocantins,Norte,6550.38,8200
+Loja 188,São Paulo,Sudeste,6528.0,7800
+Loja 189,Mato Grosso do Sul,Centro-Oeste,8795.75,7200
+Loja 190,Rio de Janeiro,Sudeste,6330.24,7800
+Loja 191,Maranhão,Nordeste,8767.76,8500
+Loja 192,Pernambuco,Nordeste,8050.52,8000
+Loja 193,Santa Catarina,Sul,9849.83,7500
+Loja 194,Rio Grande do Norte,Nordeste,6204.31,7000
+Loja 195,Rio Grande do Norte,Nordeste,8861.69,8000
+Loja 196,Maranhão,Nordeste,6948.38,7000
+Loja 197,Rio Grande do Sul,Sul,9702.96,8200
+Loja 198,Pernambuco,Nordeste,8947.21,8200
+Loja 199,Tocantins,Norte,6489.22,8500
+Loja 200,Pernambuco,Nordeste,9373.15,8200
+Loja 201,Santa Catarina,Sul,9950.61,8000
+Loja 202,Maranhão,Nordeste,6016.05,7200
+Loja 203,Alagoas,Nordeste,9025.44,7200
+Loja 204,Amapá,Norte,7645.3,7500
+Loja 205,Bahia,Nordeste,7360.32,7800
+Loja 206,Roraima,Norte,7374.38,8200
+Loja 207,Piauí,Nordeste,9642.41,8000
+Loja 208,Ceará,Nordeste,8763.92,8200
+Loja 209,Santa Catarina,Sul,6730.87,7000
+Loja 210,Rondônia,Norte,7852.34,7500
+Loja 211,Pará,Norte,9994.21,7000
+Loja 212,Tocantins,Norte,7097.91,7800
+Loja 213,Rio Grande do Norte,Nordeste,6215.66,7500
+Loja 214,Bahia,Nordeste,7792.92,8000
+Loja 215,Minas Gerais,Sudeste,6648.0,8500
+Loja 216,Maranhão,Nordeste,7803.74,7200
+Loja 217,Sergipe,Nordeste,8451.59,8200
+Loja 218,Santa Catarina,Sul,9476.82,7800
+Loja 219,Ceará,Nordeste,8291.83,7200
+Loja 220,Amapá,Norte,7201.06,8000
+Loja 221,Bahia,Nordeste,9251.1,8500
+Loja 222,Espírito Santo,Sudeste,6429.57,7800
+Loja 223,Goiás,Centro-Oeste,7354.93,7000
+Loja 224,Paraíba,Nordeste,8174.19,7200
+Loja 225,Rondônia,Norte,6142.82,8500
+Loja 226,Rio Grande do Norte,Nordeste,8148.61,8200
+Loja 227,Bahia,Nordeste,6290.16,8200
+Loja 228,Mato Grosso,Centro-Oeste,9046.58,7500
+Loja 229,Bahia,Nordeste,8214.4,8000
+Loja 230,Pará,Norte,6149.28,7200
+Loja 231,São Paulo,Sudeste,9532.01,7500
+Loja 232,Piauí,Nordeste,6835.05,7500
+Loja 233,Amapá,Norte,9084.13,7000
+Loja 234,Amazonas,Norte,8718.21,7200
+Loja 235,Paraíba,Nordeste,6529.99,7800
+Loja 236,Maranhão,Nordeste,7014.53,8500
+Loja 237,Rondônia,Norte,6850.79,8200
+Loja 238,Alagoas,Nordeste,9259.05,8500
+Loja 239,Paraná,Sul,6698.11,7000
+Loja 240,Espírito Santo,Sudeste,6221.86,8200
+Loja 241,Goiás,Centro-Oeste,7370.39,7000
+Loja 242,São Paulo,Sudeste,8848.55,8000
+Loja 243,Acre,Norte,7295.26,8500
+Loja 244,Ceará,Nordeste,9242.26,7800
+Loja 245,Goiás,Centro-Oeste,6754.42,8500
+Loja 246,Amapá,Norte,6841.87,8500
+Loja 247,Rio Grande do Norte,Nordeste,7956.14,8200
+Loja 248,Rondônia,Norte,9546.57,8500
+Loja 249,Mato Grosso,Centro-Oeste,8116.79,7800
+Loja 250,Alagoas,Nordeste,6914.08,8500
+Loja 251,Sergipe,Nordeste,7552.39,7800
+Loja 252,Rio Grande do Norte,Nordeste,7663.19,7500
+Loja 253,Bahia,Nordeste,6662.77,7800
+Loja 254,Alagoas,Nordeste,7985.72,7800
+Loja 255,Paraíba,Nordeste,6352.03,8200
+Loja 256,Rio Grande do Sul,Sul,7785.34,8200
+Loja 257,Espírito Santo,Sudeste,6611.51,7800
+Loja 258,Minas Gerais,Sudeste,6726.04,8200
+Loja 259,Pernambuco,Nordeste,6095.11,7500
+Loja 260,Paraná,Sul,9764.99,8200
+Loja 261,Goiás,Centro-Oeste,7269.43,7500
+Loja 262,São Paulo,Sudeste,6963.91,7200
+Loja 263,Amazonas,Norte,9010.64,7500
+Loja 264,São Paulo,Sudeste,6066.53,7500
+Loja 265,Espírito Santo,Sudeste,8594.43,8200
+Loja 266,Rio de Janeiro,Sudeste,9938.47,8500
+Loja 267,Amazonas,Norte,7953.69,7000
+Loja 268,Rio Grande do Norte,Nordeste,7103.75,8500
+Loja 269,Piauí,Nordeste,7858.96,8500
+Loja 270,Rio Grande do Sul,Sul,8193.39,8500
+Loja 271,Paraná,Sul,7444.42,7500
+Loja 272,Minas Gerais,Sudeste,9023.65,8500
+Loja 273,Ceará,Nordeste,8927.88,8500
+Loja 274,Goiás,Centro-Oeste,8231.39,7200
+Loja 275,Mato Grosso,Centro-Oeste,8209.71,8500
+Loja 276,Alagoas,Nordeste,7989.92,8200
+Loja 277,Rio Grande do Sul,Sul,6179.13,7200
+Loja 278,Acre,Norte,8818.9,8200
+Loja 279,Maranhão,Nordeste,7817.44,8200
+Loja 280,Paraíba,Nordeste,6679.17,7200
+Loja 281,Acre,Norte,7590.39,7000
+Loja 282,Maranhão,Nordeste,8225.4,7000
+Loja 283,Paraná,Sul,9784.12,7800
+Loja 284,Amapá,Norte,9629.5,7000
+Loja 285,Ceará,Nordeste,7787.62,7800
+Loja 286,Piauí,Nordeste,9397.51,8000
+Loja 287,Rondônia,Norte,6973.02,7800
+Loja 288,Rondônia,Norte,8976.9,8000
+Loja 289,Tocantins,Norte,9600.96,7800
+Loja 290,Tocantins,Norte,7892.31,7500
+Loja 291,Pernambuco,Nordeste,8442.87,8200
+Loja 292,Rondônia,Norte,9024.58,7800
+Loja 293,Mato Grosso,Centro-Oeste,9759.39,8000
+Loja 294,Paraíba,Nordeste,7394.99,7000
+Loja 295,Goiás,Centro-Oeste,7235.84,7500
+Loja 296,Tocantins,Norte,8213.65,8500
+Loja 297,Piauí,Nordeste,9715.88,7200
+Loja 298,Amapá,Norte,8257.35,8200
+Loja 299,Minas Gerais,Sudeste,6845.4,7500
+Loja 300,Paraíba,Nordeste,9714.87,8200
+Loja 301,Ceará,Nordeste,8762.33,7500
+Loja 302,Minas Gerais,Sudeste,7254.54,8200
+Loja 303,Goiás,Centro-Oeste,7919.79,7800
+Loja 304,Amazonas,Norte,8116.25,7000
+Loja 305,Goiás,Centro-Oeste,8775.57,7500
+Loja 306,Sergipe,Nordeste,6274.29,7000
+Loja 307,Amazonas,Norte,6372.67,7000
+Loja 308,Espírito Santo,Sudeste,9976.42,7000
+Loja 309,Rio Grande do Sul,Sul,9544.8,8000
+Loja 310,Ceará,Nordeste,9127.44,7200
+Loja 311,Pará,Norte,6955.68,8200
+Loja 312,Santa Catarina,Sul,9882.99,8200
+Loja 313,Rio Grande do Sul,Sul,8065.72,7800
+Loja 314,Bahia,Nordeste,8471.72,8000
+Loja 315,Mato Grosso,Centro-Oeste,9837.4,7500
+Loja 316,Mato Grosso do Sul,Centro-Oeste,6514.04,8500
+Loja 317,Paraíba,Nordeste,6134.25,7200
+Loja 318,Goiás,Centro-Oeste,8964.4,7500
+Loja 319,Rio Grande do Norte,Nordeste,9456.92,7500
+Loja 320,Tocantins,Norte,6221.39,7000
+Loja 321,Pernambuco,Nordeste,8691.52,8200
+Loja 322,Mato Grosso do Sul,Centro-Oeste,9387.12,7200
+Loja 323,Acre,Norte,9180.89,8000
+Loja 324,Tocantins,Norte,6465.65,8200
+Loja 325,Paraíba,Nordeste,9913.46,8000
+Loja 326,Amazonas,Norte,8265.64,8500
+Loja 327,Espírito Santo,Sudeste,8722.71,7500
+Loja 328,Alagoas,Nordeste,9891.62,7000
+Loja 329,Rio Grande do Norte,Nordeste,7961.93,7200
+Loja 330,Sergipe,Nordeste,9928.33,8500
+Loja 331,Minas Gerais,Sudeste,8344.8,8000
+Loja 332,Ceará,Nordeste,9356.47,8000
+Loja 333,Alagoas,Nordeste,6396.23,8500
+Loja 334,Piauí,Nordeste,6341.55,8000
+Loja 335,Amapá,Norte,8676.6,7800
+Loja 336,Bahia,Nordeste,7748.6,8200
+Loja 337,Pará,Norte,7806.77,8500
+Loja 338,Rio Grande do Sul,Sul,7646.18,7500
+Loja 339,Goiás,Centro-Oeste,9703.96,7800
+Loja 340,São Paulo,Sudeste,7844.07,7200
+Loja 341,Alagoas,Nordeste,7181.02,8200
+Loja 342,Pará,Norte,6113.72,8200
+Loja 343,Maranhão,Nordeste,9414.06,8500
+Loja 344,Minas Gerais,Sudeste,6755.41,7000
+Loja 345,Pará,Norte,8758.49,8500
+Loja 346,Rio Grande do Norte,Nordeste,9306.89,8000
+Loja 347,Roraima,Norte,6022.14,8000
+Loja 348,São Paulo,Sudeste,7979.38,8000
+Loja 349,Rio Grande do Norte,Nordeste,9178.85,8200
+Loja 350,Mato Grosso do Sul,Centro-Oeste,7646.43,8000
+Loja 351,Acre,Norte,9461.8,7200
+Loja 352,Acre,Norte,6723.42,7200
+Loja 353,São Paulo,Sudeste,6107.28,7000
+Loja 354,Paraíba,Nordeste,7117.66,8500
+Loja 355,Rio de Janeiro,Sudeste,6830.81,7200
+Loja 356,Tocantins,Norte,9052.37,7200
+Loja 357,Sergipe,Nordeste,6459.84,8200
+Loja 358,Paraná,Sul,7788.18,8500
+Loja 359,Mato Grosso,Centro-Oeste,7200.43,8200
+Loja 360,Goiás,Centro-Oeste,6648.68,8500
+Loja 361,Minas Gerais,Sudeste,7902.17,7200
+Loja 362,Amapá,Norte,8841.19,7000
+Loja 363,Tocantins,Norte,8839.66,7200
+Loja 364,Piauí,Nordeste,6954.93,7000
+Loja 365,Tocantins,Norte,8201.29,7200
+Loja 366,Amazonas,Norte,7138.65,7000
+Loja 367,Rio Grande do Sul,Sul,9284.05,8000
+Loja 368,Rio Grande do Sul,Sul,8158.65,7500
+Loja 369,Pará,Norte,7423.73,8200
+Loja 370,Rio Grande do Norte,Nordeste,9760.47,8200
+Loja 371,Ceará,Nordeste,7051.32,7000
+Loja 372,São Paulo,Sudeste,7895.65,8500
+Loja 373,Amapá,Norte,6696.84,8000
+Loja 374,Tocantins,Norte,6562.09,8200
+Loja 375,Acre,Norte,6902.97,8000
+Loja 376,Mato Grosso do Sul,Centro-Oeste,7081.88,7800
+Loja 377,Pará,Norte,8112.43,8000
+Loja 378,Amazonas,Norte,8891.53,8500
+Loja 379,Mato Grosso do Sul,Centro-Oeste,7609.39,8000
+Loja 380,Acre,Norte,6714.38,8000
+Loja 381,Minas Gerais,Sudeste,7073.2,7500
+Loja 382,Piauí,Nordeste,9816.3,7200
+Loja 383,Piauí,Nordeste,9725.53,7200
+Loja 384,Mato Grosso,Centro-Oeste,8814.45,8500
+Loja 385,Piauí,Nordeste,9411.61,8200
+Loja 386,Espírito Santo,Sudeste,8662.48,7800
+Loja 387,Santa Catarina,Sul,7046.49,8200
+Loja 388,Roraima,Norte,9164.08,8200
+Loja 389,Ceará,Nordeste,9753.06,7500
+Loja 390,Mato Grosso,Centro-Oeste,9214.95,7800
+Loja 391,São Paulo,Sudeste,6236.0,7000
+Loja 392,Rio de Janeiro,Sudeste,8994.81,8500
+Loja 393,Tocantins,Norte,6698.69,8000
+Loja 394,Rio Grande do Sul,Sul,7857.89,7800
+Loja 395,Rio de Janeiro,Sudeste,9522.27,7200
+Loja 396,São Paulo,Sudeste,7495.59,8200
+Loja 397,Paraná,Sul,7763.13,7200
+Loja 398,Mato Grosso do Sul,Centro-Oeste,9822.38,8200
+Loja 399,Pará,Norte,6758.15,7500
+Loja 400,Amazonas,Norte,6353.33,7800
+Loja 401,Mato Grosso,Centro-Oeste,9428.27,8500
+Loja 402,Acre,Norte,8581.49,7500
+Loja 403,Pernambuco,Nordeste,8046.91,8200
+Loja 404,Santa Catarina,Sul,9631.11,7200
+Loja 405,Amapá,Norte,9481.49,7200
+Loja 406,Alagoas,Nordeste,9069.21,7500
+Loja 407,Pernambuco,Nordeste,8270.24,8500
+Loja 408,Paraná,Sul,8193.09,7200
+Loja 409,Pernambuco,Nordeste,8572.21,7200
+Loja 410,Roraima,Norte,8638.26,8000
+Loja 411,Rondônia,Norte,9397.11,8200
+Loja 412,Goiás,Centro-Oeste,6849.81,7000
+Loja 413,Rondônia,Norte,9370.21,8000
+Loja 414,Paraná,Sul,7616.42,7000
+Loja 415,Santa Catarina,Sul,7808.95,8200
+Loja 416,Paraíba,Nordeste,8987.55,8200
+Loja 417,Minas Gerais,Sudeste,6411.07,8000
+Loja 418,Paraíba,Nordeste,9839.48,8200
+Loja 419,Alagoas,Nordeste,8583.73,8500
+Loja 420,Alagoas,Nordeste,9939.02,7500
+Loja 421,Minas Gerais,Sudeste,7378.16,8000
+Loja 422,Paraná,Sul,8739.73,7000
+Loja 423,Pernambuco,Nordeste,9310.57,7000
+Loja 424,Pará,Norte,8586.78,7200
+Loja 425,Paraíba,Nordeste,7111.16,7800
+Loja 426,Maranhão,Nordeste,7882.58,7500
+Loja 427,Roraima,Norte,9393.17,7200
+Loja 428,Amapá,Norte,7190.69,8200
+Loja 429,Pará,Norte,6635.79,8000
+Loja 430,Goiás,Centro-Oeste,9671.14,7200
+Loja 431,Acre,Norte,8835.4,7000
+Loja 432,Amazonas,Norte,6093.47,8000
+Loja 433,São Paulo,Sudeste,9301.07,8500
+Loja 434,Pará,Norte,9612.28,8500
+Loja 435,Piauí,Nordeste,7391.79,8200
+Loja 436,Rio Grande do Norte,Nordeste,8680.12,7500
+Loja 437,Amapá,Norte,9722.19,8500
+Loja 438,Tocantins,Norte,6535.09,7800
+Loja 439,Santa Catarina,Sul,9737.28,7500
+Loja 440,Rio de Janeiro,Sudeste,9739.8,7200
+Loja 441,Bahia,Nordeste,6973.93,8500
+Loja 442,Bahia,Nordeste,9497.01,8200
+Loja 443,Mato Grosso,Centro-Oeste,7443.75,8200
+Loja 444,Paraíba,Nordeste,9902.1,7000
+Loja 445,Goiás,Centro-Oeste,6766.74,7200
+Loja 446,Amapá,Norte,6913.18,7200
+Loja 447,Mato Grosso do Sul,Centro-Oeste,9987.04,7800
+Loja 448,Santa Catarina,Sul,7429.42,7800
+Loja 449,Amapá,Norte,6883.6,7500
+Loja 450,Minas Gerais,Sudeste,9654.12,7500
+Loja 451,Acre,Norte,6594.22,8200
+Loja 452,Amazonas,Norte,8217.38,7500
+Loja 453,Amapá,Norte,8601.4,8000
+Loja 454,Paraná,Sul,7664.48,7800
+Loja 455,Maranhão,Nordeste,6830.04,7500
+Loja 456,Mato Grosso do Sul,Centro-Oeste,9033.27,8500
+Loja 457,Goiás,Centro-Oeste,6690.52,8200
+Loja 458,Alagoas,Nordeste,7444.45,8500
+Loja 459,Rio Grande do Sul,Sul,7883.7,7200
+Loja 460,Piauí,Nordeste,7226.6,8000
+Loja 461,Minas Gerais,Sudeste,8075.46,7500
+Loja 462,Tocantins,Norte,7064.79,7500
+Loja 463,Minas Gerais,Sudeste,8268.0,7800
+Loja 464,Espírito Santo,Sudeste,6741.97,8200
+Loja 465,Espírito Santo,Sudeste,9253.43,7200
+Loja 466,Alagoas,Nordeste,9133.12,8500
+Loja 467,Mato Grosso do Sul,Centro-Oeste,6123.3,8000
+Loja 468,Tocantins,Norte,7975.11,8500
+Loja 469,Pernambuco,Nordeste,8452.36,7000
+Loja 470,Sergipe,Nordeste,6829.84,8200
+Loja 471,Pernambuco,Nordeste,8907.32,7800
+Loja 472,Mato Grosso do Sul,Centro-Oeste,6101.07,7000
+Loja 473,Rio de Janeiro,Sudeste,8816.53,7500
+Loja 474,Acre,Norte,7108.05,8500
+Loja 475,Rio de Janeiro,Sudeste,8814.07,8000
+Loja 476,Pernambuco,Nordeste,9326.97,8200
+Loja 477,Pernambuco,Nordeste,8838.74,8200
+Loja 478,São Paulo,Sudeste,9573.12,8000
+Loja 479,Pernambuco,Nordeste,9600.7,8200
+Loja 480,Maranhão,Nordeste,9586.69,7500
+Loja 481,Santa Catarina,Sul,6795.48,8500
+Loja 482,Rondônia,Norte,8839.55,7800
+Loja 483,Paraíba,Nordeste,6615.42,8000
+Loja 484,Rio de Janeiro,Sudeste,8177.11,7800
+Loja 485,Sergipe,Nordeste,7575.87,7500
+Loja 486,Rio Grande do Norte,Nordeste,6697.12,7800
+Loja 487,Amazonas,Norte,8787.42,7000
+Loja 488,Alagoas,Nordeste,8515.11,8500
+Loja 489,Santa Catarina,Sul,6563.22,8000
+Loja 490,Acre,Norte,6115.87,7000
+Loja 491,Amazonas,Norte,7100.32,8200
+Loja 492,Sergipe,Nordeste,7277.45,8200
+Loja 493,Sergipe,Nordeste,7563.61,8000
+Loja 494,Rio Grande do Sul,Sul,9673.46,8500
+Loja 495,São Paulo,Sudeste,8606.2,8200
+Loja 496,Espírito Santo,Sudeste,8776.05,7200
+Loja 497,Paraná,Sul,8113.54,7000
+Loja 498,Alagoas,Nordeste,6987.91,7500
+Loja 499,Mato Grosso,Centro-Oeste,9045.56,7200
+Loja 500,Santa Catarina,Sul,6073.36,7000
+Loja 501,Sergipe,Nordeste,9445.54,8500
+Loja 502,Piauí,Nordeste,7895.46,8500
+Loja 503,Amazonas,Norte,6391.65,7000
+Loja 504,Sergipe,Nordeste,8396.94,7800
+Loja 505,Bahia,Nordeste,9031.73,8500
+Loja 506,Roraima,Norte,6309.22,7800
+Loja 507,Amazonas,Norte,9757.0,7000
+Loja 508,Pará,Norte,9830.15,7800
+Loja 509,Paraíba,Nordeste,7301.0,8000
+Loja 510,Roraima,Norte,9703.96,8500
+Loja 511,Mato Grosso,Centro-Oeste,6904.06,7800
+Loja 512,Piauí,Nordeste,8878.66,7000
+Loja 513,Amazonas,Norte,7926.71,7000
+Loja 514,Amapá,Norte,6532.79,8000
+Loja 515,Rio de Janeiro,Sudeste,6069.25,7000
+Loja 516,Mato Grosso,Centro-Oeste,7212.4,8000
+Loja 517,Piauí,Nordeste,8481.57,8200
+Loja 518,Pernambuco,Nordeste,8910.68,7800
+Loja 519,Tocantins,Norte,6082.45,7000
+Loja 520,Rio Grande do Norte,Nordeste,6807.34,7800
+Loja 521,Paraíba,Nordeste,6310.2,7200
+Loja 522,Paraná,Sul,7712.45,7500
+Loja 523,São Paulo,Sudeste,8076.4,8200
+Loja 524,Roraima,Norte,7265.71,7000
+Loja 525,Alagoas,Nordeste,6542.13,7500
+Loja 526,Mato Grosso,Centro-Oeste,8864.06,7200
+Loja 527,Tocantins,Norte,8049.58,7800
+Loja 528,Mato Grosso,Centro-Oeste,7456.48,7000
+Loja 529,Paraíba,Nordeste,7477.52,8200
+Loja 530,Santa Catarina,Sul,8495.6,7000
+Loja 531,Bahia,Nordeste,6260.1,7500
+Loja 532,Rio Grande do Sul,Sul,9029.44,8000
+Loja 533,Mato Grosso,Centro-Oeste,9182.14,7000
+Loja 534,Mato Grosso do Sul,Centro-Oeste,7213.02,8000
+Loja 535,Bahia,Nordeste,7974.33,7800
+Loja 536,Sergipe,Nordeste,7189.4,7500
+Loja 537,Espírito Santo,Sudeste,6366.06,7800
+Loja 538,Paraná,Sul,7797.58,7800
+Loja 539,Alagoas,Nordeste,8902.42,7500
+Loja 540,Rio de Janeiro,Sudeste,6742.12,8000
+Loja 541,Minas Gerais,Sudeste,7241.63,8500
+Loja 542,Pernambuco,Nordeste,7279.49,7800
+Loja 543,Paraíba,Nordeste,9127.47,8000
+Loja 544,Goiás,Centro-Oeste,9695.44,8000
+Loja 545,Maranhão,Nordeste,8902.07,8200
+Loja 546,Rio Grande do Norte,Nordeste,7906.25,7000
+Loja 547,Goiás,Centro-Oeste,9742.41,8500
+Loja 548,Tocantins,Norte,6776.36,8000
+Loja 549,Espírito Santo,Sudeste,6901.91,8200
+Loja 550,Goiás,Centro-Oeste,9610.64,8200
+Loja 551,Amapá,Norte,9767.12,7000
+Loja 552,Pernambuco,Nordeste,8853.3,8200
+Loja 553,Piauí,Nordeste,6024.25,7000
+Loja 554,São Paulo,Sudeste,6222.84,7000
+Loja 555,Roraima,Norte,6058.31,8000
+Loja 556,Espírito Santo,Sudeste,6630.34,8200
+Loja 557,Mato Grosso,Centro-Oeste,7790.43,7800
+Loja 558,Mato Grosso,Centro-Oeste,9544.09,7800
+Loja 559,Mato Grosso,Centro-Oeste,6476.6,7000
+Loja 560,Minas Gerais,Sudeste,9977.08,8200
+Loja 561,Sergipe,Nordeste,8278.75,7500
+Loja 562,Bahia,Nordeste,7500.79,7000
+Loja 563,Piauí,Nordeste,7323.04,7500
+Loja 564,Roraima,Norte,7862.54,8000
+Loja 565,Maranhão,Nordeste,9857.38,7000
+Loja 566,Bahia,Nordeste,8034.49,7800
+Loja 567,Amapá,Norte,6102.33,8000
+Loja 568,Santa Catarina,Sul,7175.8,7200
+Loja 569,Pará,Norte,7519.06,8500
+Loja 570,Alagoas,Nordeste,8794.21,7000
+Loja 571,Paraná,Sul,9422.14,7800
+Loja 572,Santa Catarina,Sul,6711.17,7800
+Loja 573,Amazonas,Norte,6500.09,7000
+Loja 574,Rio Grande do Sul,Sul,9520.25,8000
+Loja 575,Rio Grande do Norte,Nordeste,6908.73,8500
+Loja 576,Rio Grande do Sul,Sul,7627.53,7200
+Loja 577,Tocantins,Norte,6502.09,7800
+Loja 578,Piauí,Nordeste,8112.34,7200
+Loja 579,Rondônia,Norte,7093.2,8200
+Loja 580,Bahia,Nordeste,8895.52,8500
+Loja 581,Amapá,Norte,6041.11,8000
+Loja 582,Bahia,Nordeste,7551.79,7200
+Loja 583,Piauí,Nordeste,6202.94,8200
+Loja 584,Paraíba,Nordeste,9433.45,7000
+Loja 585,Sergipe,Nordeste,7627.01,7800
+Loja 586,Minas Gerais,Sudeste,8549.89,7800
+Loja 587,Goiás,Centro-Oeste,7779.42,7200
+Loja 588,Espírito Santo,Sudeste,6232.75,7500
+Loja 589,Rio Grande do Norte,Nordeste,8425.75,7800
+Loja 590,Roraima,Norte,6946.2,8000
+Loja 591,Tocantins,Norte,8885.89,8000
+Loja 592,Pernambuco,Nordeste,8025.42,8000
+Loja 593,Rio Grande do Sul,Sul,7144.61,7800
+Loja 594,Pará,Norte,9444.81,7500
+Loja 595,Bahia,Nordeste,6645.81,8500
+Loja 596,Minas Gerais,Sudeste,8142.98,7500
+Loja 597,Alagoas,Nordeste,7657.5,7200
+Loja 598,Rio Grande do Norte,Nordeste,8831.32,7800
+Loja 599,Tocantins,Norte,9459.49,8500
+Loja 600,Pará,Norte,6370.22,7000
+Loja 601,Santa Catarina,Sul,8913.46,7800
+Loja 602,Minas Gerais,Sudeste,7433.02,7000
+Loja 603,Roraima,Norte,6026.95,7500
+Loja 604,Amazonas,Norte,7069.49,8500
+Loja 605,Pernambuco,Nordeste,6020.09,7000
+Loja 606,Paraíba,Nordeste,8016.44,7500
+Loja 607,Minas Gerais,Sudeste,6430.51,8000
+Loja 608,Paraná,Sul,8790.6,7800
+Loja 609,Santa Catarina,Sul,6063.68,7200
+Loja 610,Pernambuco,Nordeste,8049.52,7500
+Loja 611,Maranhão,Nordeste,6534.27,7200
+Loja 612,Paraná,Sul,8437.04,7000
+Loja 613,Mato Grosso,Centro-Oeste,7633.91,7500
+Loja 614,Rio Grande do Norte,Nordeste,9010.99,7500
+Loja 615,Goiás,Centro-Oeste,9256.55,8200
+Loja 616,Paraná,Sul,9223.01,8000
+Loja 617,Bahia,Nordeste,7786.84,8500
+Loja 618,Tocantins,Norte,6682.72,7200
+Loja 619,Maranhão,Nordeste,7850.64,7200
+Loja 620,Alagoas,Nordeste,7356.33,7800
+Loja 621,Tocantins,Norte,9436.69,8200
+Loja 622,Roraima,Norte,9193.1,7500
+Loja 623,Ceará,Nordeste,7982.26,8200
+Loja 624,Paraíba,Nordeste,9764.69,7000
+Loja 625,Mato Grosso do Sul,Centro-Oeste,7293.75,7200
+Loja 626,Mato Grosso do Sul,Centro-Oeste,8773.2,7800
+Loja 627,Rio de Janeiro,Sudeste,7690.24,7200
+Loja 628,Rio Grande do Norte,Nordeste,8430.26,7800
+Loja 629,Piauí,Nordeste,9970.74,8000
+Loja 630,São Paulo,Sudeste,7686.42,7800
+Loja 631,Alagoas,Nordeste,6966.57,8200
+Loja 632,Pará,Norte,7213.49,8200
+Loja 633,Amapá,Norte,8571.43,8500
+Loja 634,Rio Grande do Norte,Nordeste,8216.21,7200
+Loja 635,Maranhão,Nordeste,6214.72,7000
+Loja 636,Maranhão,Nordeste,6233.75,8000
+Loja 637,Paraná,Sul,6665.97,7000
+Loja 638,Mato Grosso do Sul,Centro-Oeste,9585.66,8200
+Loja 639,Pará,Norte,8308.36,8000
+Loja 640,Rio de Janeiro,Sudeste,7293.24,7200
+Loja 641,Mato Grosso,Centro-Oeste,7982.92,8200
+Loja 642,Rondônia,Norte,9253.55,8500
+Loja 643,Alagoas,Nordeste,6165.09,8000
+Loja 644,Sergipe,Nordeste,7551.61,8000
+Loja 645,Pernambuco,Nordeste,8546.83,8200
+Loja 646,Amazonas,Norte,7312.14,8200
+Loja 647,Amazonas,Norte,9991.13,8500
+Loja 648,Goiás,Centro-Oeste,6791.51,7500
+Loja 649,Santa Catarina,Sul,7909.9,8500
+Loja 650,Pará,Norte,9668.23,7000
+Loja 651,Mato Grosso do Sul,Centro-Oeste,6704.38,7200
+Loja 652,Paraíba,Nordeste,9002.58,8200
+Loja 653,Pernambuco,Nordeste,7700.83,7500
+Loja 654,São Paulo,Sudeste,8556.17,7000
+Loja 655,Sergipe,Nordeste,8273.25,8000
+Loja 656,Minas Gerais,Sudeste,9775.7,7000
+Loja 657,Tocantins,Norte,7433.76,7500
+Loja 658,São Paulo,Sudeste,7276.78,8200
+Loja 659,Pernambuco,Nordeste,7954.37,7000
+Loja 660,Rio Grande do Sul,Sul,7774.99,7500
+Loja 661,Pará,Norte,8286.32,8200
+Loja 662,Alagoas,Nordeste,9480.58,7200
+Loja 663,Mato Grosso do Sul,Centro-Oeste,6758.31,7000
+Loja 664,Amazonas,Norte,7611.4,8200
+Loja 665,Mato Grosso do Sul,Centro-Oeste,7125.15,8500
+Loja 666,Amapá,Norte,7628.23,8200
+Loja 667,Paraíba,Nordeste,7863.0,7000
+Loja 668,Maranhão,Nordeste,7483.52,7500
+Loja 669,Roraima,Norte,9536.03,8000
+Loja 670,Bahia,Nordeste,8036.01,8000
+Loja 671,Paraná,Sul,9523.99,8000
+Loja 672,Goiás,Centro-Oeste,8680.66,7200
+Loja 673,Piauí,Nordeste,9452.71,8200
+Loja 674,Espírito Santo,Sudeste,7221.67,7500
+Loja 675,Paraná,Sul,8587.8,8000
+Loja 676,Goiás,Centro-Oeste,9981.34,7500
+Loja 677,Mato Grosso,Centro-Oeste,7436.54,8500
+Loja 678,Paraná,Sul,7869.84,7200
+Loja 679,Mato Grosso,Centro-Oeste,6745.97,7000
+Loja 680,Alagoas,Nordeste,6554.7,7200
+Loja 681,Mato Grosso,Centro-Oeste,8004.99,8500
+Loja 682,Acre,Norte,6061.75,8500
+Loja 683,Rio Grande do Sul,Sul,9099.39,8200
+Loja 684,Ceará,Nordeste,9039.38,7500
+Loja 685,Maranhão,Nordeste,9790.74,7000
+Loja 686,Minas Gerais,Sudeste,9382.48,7200
+Loja 687,Rio de Janeiro,Sudeste,8741.21,7800
+Loja 688,Alagoas,Nordeste,7528.0,7000
+Loja 689,Alagoas,Nordeste,8363.97,8000
+Loja 690,Mato Grosso do Sul,Centro-Oeste,8516.53,8500
+Loja 691,Tocantins,Norte,7755.23,7200
+Loja 692,Sergipe,Nordeste,6839.63,7200
+Loja 693,Goiás,Centro-Oeste,9626.42,7800
+Loja 694,Pará,Norte,6136.35,7500
+Loja 695,Alagoas,Nordeste,7181.9,7200
+Loja 696,Mato Grosso do Sul,Centro-Oeste,7665.72,8500
+Loja 697,Paraná,Sul,9267.74,8500
+Loja 698,Espírito Santo,Sudeste,7856.1,8000
+Loja 699,Amapá,Norte,7693.02,8000
+Loja 700,Paraná,Sul,9865.47,8200
+Loja 701,São Paulo,Sudeste,7024.22,7800
+Loja 702,Bahia,Nordeste,8098.64,7000
+Loja 703,Espírito Santo,Sudeste,8123.66,7800
+Loja 704,Mato Grosso,Centro-Oeste,7816.35,7500
+Loja 705,Maranhão,Nordeste,8324.02,8500
+Loja 706,Rio Grande do Sul,Sul,7669.74,7000
+Loja 707,São Paulo,Sudeste,8339.63,7000
+Loja 708,Piauí,Nordeste,6547.23,8200
+Loja 709,Sergipe,Nordeste,6154.09,7200
+Loja 710,Roraima,Norte,8879.85,8500
+Loja 711,Sergipe,Nordeste,6334.83,7000
+Loja 712,Minas Gerais,Sudeste,9499.78,7800
+Loja 713,Piauí,Nordeste,9625.83,7500
+Loja 714,Mato Grosso do Sul,Centro-Oeste,7388.49,7000
+Loja 715,Tocantins,Norte,8782.59,7800
+Loja 716,Pernambuco,Nordeste,9991.83,7000
+Loja 717,Pará,Norte,9610.51,7000
+Loja 718,Paraíba,Nordeste,6856.03,8500
+Loja 719,Minas Gerais,Sudeste,6186.11,7000
+Loja 720,Tocantins,Norte,9756.32,7500
+Loja 721,Ceará,Nordeste,9358.44,8000
+Loja 722,Goiás,Centro-Oeste,9442.08,7200
+Loja 723,Amapá,Norte,8803.56,7200
+Loja 724,Mato Grosso do Sul,Centro-Oeste,9884.68,8500
+Loja 725,Santa Catarina,Sul,7807.09,8500
+Loja 726,Pernambuco,Nordeste,8882.73,7000
+Loja 727,Paraíba,Nordeste,7566.14,8200
+Loja 728,Acre,Norte,9011.6,7500
+Loja 729,Maranhão,Nordeste,7435.99,8200
+Loja 730,Paraná,Sul,6598.12,8000
+Loja 731,Pará,Norte,8156.84,7800
+Loja 732,Ceará,Nordeste,7526.45,8000
+Loja 733,Pará,Norte,6238.39,7800
+Loja 734,Bahia,Nordeste,9677.71,7800
+Loja 735,Acre,Norte,6697.06,7000
+Loja 736,Mato Grosso,Centro-Oeste,6789.18,8200
+Loja 737,Paraná,Sul,6422.53,8200
+Loja 738,Paraná,Sul,6298.93,7000
+Loja 739,Mato Grosso,Centro-Oeste,9308.51,7500
+Loja 740,Santa Catarina,Sul,8191.51,8500
+Loja 741,Maranhão,Nordeste,7341.01,7200
+Loja 742,Amazonas,Norte,7600.64,7800
+Loja 743,Goiás,Centro-Oeste,7407.09,8500
+Loja 744,Piauí,Nordeste,9364.17,7200
+Loja 745,Rio Grande do Sul,Sul,9906.84,8000
+Loja 746,Ceará,Nordeste,9398.86,8500
+Loja 747,Roraima,Norte,7185.73,8200
+Loja 748,Acre,Norte,9448.68,8000
+Loja 749,Rio Grande do Norte,Nordeste,8954.46,7000
+Loja 750,São Paulo,Sudeste,9696.37,7800
+Loja 751,Goiás,Centro-Oeste,8464.46,7800
+Loja 752,Acre,Norte,8274.55,7800
+Loja 753,Bahia,Nordeste,9772.14,7200
+Loja 754,Paraíba,Nordeste,7853.09,7500
+Loja 755,Paraná,Sul,7841.53,7000
+Loja 756,São Paulo,Sudeste,9325.73,7200
+Loja 757,Pará,Norte,8654.12,7200
+Loja 758,Maranhão,Nordeste,8665.72,7800
+Loja 759,Paraná,Sul,7915.34,8200
+Loja 760,Alagoas,Nordeste,6369.78,7000
+Loja 761,Pará,Norte,6170.99,8500
+Loja 762,Tocantins,Norte,8552.02,7500
+Loja 763,Rio Grande do Sul,Sul,6564.6,8000
+Loja 764,Rondônia,Norte,9144.93,7500
+Loja 765,Amazonas,Norte,9825.57,7800
+Loja 766,Alagoas,Nordeste,6025.21,8500
+Loja 767,Mato Grosso do Sul,Centro-Oeste,7986.4,7000
+Loja 768,Piauí,Nordeste,7780.63,7000
+Loja 769,Paraná,Sul,9571.45,8500
+Loja 770,Ceará,Nordeste,9256.31,8200
+Loja 771,Santa Catarina,Sul,6561.89,7200
+Loja 772,Espírito Santo,Sudeste,6051.54,8500
+Loja 773,Piauí,Nordeste,7259.03,7800
+Loja 774,Paraíba,Nordeste,7104.77,7800
+Loja 775,Alagoas,Nordeste,9831.67,7200
+Loja 776,Alagoas,Nordeste,7088.72,7800
+Loja 777,Roraima,Norte,6850.35,7500
+Loja 778,Paraná,Sul,9840.49,8200
+Loja 779,Tocantins,Norte,9832.69,8000
+Loja 780,Sergipe,Nordeste,7014.93,7200
+Loja 781,Mato Grosso do Sul,Centro-Oeste,9048.42,8500
+Loja 782,Pará,Norte,7752.11,7000
+Loja 783,São Paulo,Sudeste,9607.23,7500
+Loja 784,Goiás,Centro-Oeste,7916.81,8200
+Loja 785,Espírito Santo,Sudeste,8052.78,7200
+Loja 786,Amazonas,Norte,8838.81,7800
+Loja 787,Mato Grosso do Sul,Centro-Oeste,8695.01,8200
+Loja 788,Rondônia,Norte,8047.38,7500
+Loja 789,Rondônia,Norte,8684.96,7800
+Loja 790,Mato Grosso do Sul,Centro-Oeste,8287.36,8000
+Loja 791,Minas Gerais,Sudeste,8226.91,8000
+Loja 792,Rio Grande do Sul,Sul,7953.45,7200
+Loja 793,Maranhão,Nordeste,8535.16,7500
+Loja 794,Amazonas,Norte,6064.67,8500
+Loja 795,Rondônia,Norte,9701.34,7500
+Loja 796,Alagoas,Nordeste,7630.37,7000
+Loja 797,Sergipe,Nordeste,8709.3,8200
+Loja 798,Goiás,Centro-Oeste,6013.51,7500
+Loja 799,Amazonas,Norte,6083.64,8200
+Loja 800,Paraná,Sul,7961.66,8000
+Loja 801,Alagoas,Nordeste,9501.85,8000
+Loja 802,Mato Grosso do Sul,Centro-Oeste,8901.66,8200
+Loja 803,Maranhão,Nordeste,6187.16,7200
+Loja 804,Rio de Janeiro,Sudeste,6538.18,7800
+Loja 805,Sergipe,Nordeste,8571.42,8000
+Loja 806,Santa Catarina,Sul,6668.66,7500
+Loja 807,Piauí,Nordeste,9419.45,7000
+Loja 808,São Paulo,Sudeste,8094.27,7000
+Loja 809,Piauí,Nordeste,8143.4,7800
+Loja 810,Espírito Santo,Sudeste,6310.09,7800
+Loja 811,Rio de Janeiro,Sudeste,6157.18,7800
+Loja 812,Mato Grosso do Sul,Centro-Oeste,6743.89,7200
+Loja 813,Acre,Norte,7375.45,7000
+Loja 814,Paraná,Sul,9270.52,8000
+Loja 815,Ceará,Nordeste,9587.1,7500
+Loja 816,Tocantins,Norte,8690.27,7000
+Loja 817,Sergipe,Nordeste,7804.45,7500
+Loja 818,Mato Grosso do Sul,Centro-Oeste,7099.23,8500
+Loja 819,Roraima,Norte,6983.35,7000
+Loja 820,Acre,Norte,7287.51,7000
+Loja 821,Pernambuco,Nordeste,9574.1,8500
+Loja 822,Piauí,Nordeste,6760.41,8500
+Loja 823,Amazonas,Norte,9199.28,8500
+Loja 824,Rondônia,Norte,9807.64,7200
+Loja 825,Mato Grosso do Sul,Centro-Oeste,8473.56,8200
+Loja 826,Mato Grosso do Sul,Centro-Oeste,6387.14,7000
+Loja 827,Mato Grosso,Centro-Oeste,7860.26,8000
+Loja 828,São Paulo,Sudeste,8226.25,7500
+Loja 829,Acre,Norte,6600.16,7000
+Loja 830,Mato Grosso,Centro-Oeste,8444.83,8200
+Loja 831,Amapá,Norte,8623.89,7200
+Loja 832,Acre,Norte,6575.67,7000
+Loja 833,Bahia,Nordeste,7768.95,7800
+Loja 834,Rio de Janeiro,Sudeste,7558.9,7800
+Loja 835,Paraíba,Nordeste,6195.61,8500
+Loja 836,Maranhão,Nordeste,7969.09,8200
+Loja 837,Santa Catarina,Sul,7953.92,7500
+Loja 838,Rondônia,Norte,8039.37,7000
+Loja 839,Pará,Norte,9184.41,8500
+Loja 840,Ceará,Nordeste,8559.13,8500
+Loja 841,Rio Grande do Sul,Sul,9652.61,7200
+Loja 842,Pernambuco,Nordeste,9035.69,7800
+Loja 843,Amapá,Norte,9689.56,7200
+Loja 844,Mato Grosso,Centro-Oeste,6618.52,7800
+Loja 845,Rio Grande do Sul,Sul,9178.76,7000
+Loja 846,Minas Gerais,Sudeste,6684.22,7500
+Loja 847,Bahia,Nordeste,8726.09,7500
+Loja 848,Paraná,Sul,8893.59,7200
+Loja 849,Tocantins,Norte,8536.09,8000
+Loja 850,Ceará,Nordeste,8526.31,8500
+Loja 851,Sergipe,Nordeste,7046.5,8000
+Loja 852,Amazonas,Norte,9086.56,7800
+Loja 853,Ceará,Nordeste,8785.0,7800
+Loja 854,Pernambuco,Nordeste,6419.24,7800
+Loja 855,Amazonas,Norte,6632.03,7800
+Loja 856,Ceará,Nordeste,9401.1,7800
+Loja 857,Pernambuco,Nordeste,7281.56,8500
+Loja 858,Minas Gerais,Sudeste,6579.24,8000
+Loja 859,Espírito Santo,Sudeste,6609.12,7800
+Loja 860,Mato Grosso,Centro-Oeste,9979.74,8200
+Loja 861,Amazonas,Norte,8431.51,8200
+Loja 862,Mato Grosso,Centro-Oeste,8321.79,8200
+Loja 863,Amazonas,Norte,8206.78,8000
+Loja 864,São Paulo,Sudeste,6991.8,7000
+Loja 865,Alagoas,Nordeste,7712.4,8000
+Loja 866,Acre,Norte,6679.81,8000
+Loja 867,Amapá,Norte,8194.57,7000
+Loja 868,Sergipe,Nordeste,7850.55,7000
+Loja 869,Bahia,Nordeste,9435.1,8500
+Loja 870,Maranhão,Nordeste,7700.15,8000
+Loja 871,Maranhão,Nordeste,9520.81,7800
+Loja 872,Amazonas,Norte,9379.13,7500
+Loja 873,Santa Catarina,Sul,8749.8,8200
+Loja 874,Ceará,Nordeste,7985.6,8200
+Loja 875,Amazonas,Norte,8461.77,8500
+Loja 876,Rio Grande do Sul,Sul,9073.54,7800
+Loja 877,Sergipe,Nordeste,8772.18,7500
+Loja 878,Pará,Norte,7353.72,7500
+Loja 879,Espírito Santo,Sudeste,8313.73,7800
+Loja 880,Maranhão,Nordeste,8446.01,7200
+Loja 881,Goiás,Centro-Oeste,9409.92,7800
+Loja 882,Maranhão,Nordeste,8969.21,8500
+Loja 883,Sergipe,Nordeste,9755.44,7000
+Loja 884,Santa Catarina,Sul,8194.06,7500
+Loja 885,Pará,Norte,8241.71,7500
+Loja 886,Amapá,Norte,7452.31,7500
+Loja 887,São Paulo,Sudeste,9833.1,8500
+Loja 888,Sergipe,Nordeste,6309.03,7200
+Loja 889,Maranhão,Nordeste,9343.91,7000
+Loja 890,Tocantins,Norte,6778.36,8000
+Loja 891,Minas Gerais,Sudeste,9832.67,8500
+Loja 892,Santa Catarina,Sul,8762.15,7000
+Loja 893,Rio de Janeiro,Sudeste,8549.11,7800
+Loja 894,Amapá,Norte,8177.78,7200
+Loja 895,Sergipe,Nordeste,7212.73,7500
+Loja 896,Mato Grosso do Sul,Centro-Oeste,6255.29,7200
+Loja 897,Santa Catarina,Sul,7484.25,7200
+Loja 898,Paraná,Sul,7933.28,7000
+Loja 899,Ceará,Nordeste,9826.97,7500
+Loja 900,Bahia,Nordeste,6554.92,7000
+Loja 901,Paraíba,Nordeste,6584.88,8200
+Loja 902,Paraíba,Nordeste,7950.23,7000
+Loja 903,Ceará,Nordeste,6812.53,8500
+Loja 904,Rio Grande do Norte,Nordeste,6469.49,8000
+Loja 905,Ceará,Nordeste,7022.25,8000
+Loja 906,Paraná,Sul,6459.18,7800
+Loja 907,Piauí,Nordeste,6490.24,8000
+Loja 908,Ceará,Nordeste,7531.49,7200
+Loja 909,Sergipe,Nordeste,6451.88,8500
+Loja 910,Paraná,Sul,9365.53,7500
+Loja 911,Ceará,Nordeste,6463.64,7000
+Loja 912,Amapá,Norte,7382.56,7500
+Loja 913,Alagoas,Nordeste,7812.16,7800
+Loja 914,Ceará,Nordeste,9879.52,7800
+Loja 915,Rio Grande do Sul,Sul,8076.2,7200
+Loja 916,Rio Grande do Norte,Nordeste,7101.41,8000
+Loja 917,Mato Grosso,Centro-Oeste,7032.05,8500
+Loja 918,Goiás,Centro-Oeste,7260.86,7800
+Loja 919,Rondônia,Norte,9763.04,8500
+Loja 920,Paraná,Sul,7394.66,7500
+Loja 921,Amapá,Norte,6705.05,8500
+Loja 922,Alagoas,Nordeste,8527.46,8500
+Loja 923,Paraná,Sul,6556.12,8200
+Loja 924,Pará,Norte,6196.1,8200
+Loja 925,Rio Grande do Sul,Sul,6683.14,7800
+Loja 926,Paraná,Sul,8599.6,7800
+Loja 927,Amapá,Norte,8318.97,8200
+Loja 928,Goiás,Centro-Oeste,8963.08,7500
+Loja 929,Rio de Janeiro,Sudeste,8259.76,8500
+Loja 930,Bahia,Nordeste,8242.16,8500
+Loja 931,Mato Grosso do Sul,Centro-Oeste,8206.69,7200
+Loja 932,Goiás,Centro-Oeste,8037.48,8200
+Loja 933,Santa Catarina,Sul,6610.09,8000
+Loja 934,Espírito Santo,Sudeste,9590.05,8000
+Loja 935,Paraíba,Nordeste,8288.32,7800
+Loja 936,Mato Grosso,Centro-Oeste,8590.47,7800
+Loja 937,Rio de Janeiro,Sudeste,7685.9,7800
+Loja 938,Paraíba,Nordeste,6591.79,7800
+Loja 939,Paraná,Sul,6991.17,7200
+Loja 940,Roraima,Norte,6029.12,7500
+Loja 941,Mato Grosso,Centro-Oeste,6888.78,7800
+Loja 942,Amapá,Norte,8825.4,8200
+Loja 943,Ceará,Nordeste,6460.64,8500
+Loja 944,Paraná,Sul,7222.23,7000
+Loja 945,Paraná,Sul,9387.96,8000
+Loja 946,Amapá,Norte,9166.15,8500
+Loja 947,Espírito Santo,Sudeste,6870.06,8500
+Loja 948,Amazonas,Norte,7295.87,7800
+Loja 949,Amapá,Norte,9211.61,8500
+Loja 950,Amazonas,Norte,8135.22,8500
+Loja 951,Amapá,Norte,7189.85,7000
+Loja 952,Mato Grosso do Sul,Centro-Oeste,7473.04,8500
+Loja 953,Espírito Santo,Sudeste,7546.15,7000
+Loja 954,Rio de Janeiro,Sudeste,9779.15,8000
+Loja 955,Piauí,Nordeste,7616.52,7200
+Loja 956,Minas Gerais,Sudeste,9131.24,7800
+Loja 957,Maranhão,Nordeste,8904.07,8000
+Loja 958,Pernambuco,Nordeste,7057.0,7200
+Loja 959,Paraíba,Nordeste,9237.47,8500
+Loja 960,Maranhão,Nordeste,7867.48,7200
+Loja 961,Amapá,Norte,8399.12,7800
+Loja 962,Mato Grosso,Centro-Oeste,7620.61,7200
+Loja 963,Rio Grande do Norte,Nordeste,6180.17,7800
+Loja 964,São Paulo,Sudeste,7487.02,8200
+Loja 965,Tocantins,Norte,8376.39,8500
+Loja 966,Rio Grande do Sul,Sul,6132.83,7000
+Loja 967,Ceará,Nordeste,6070.78,8500
+Loja 968,Espírito Santo,Sudeste,9842.12,7500
+Loja 969,Rio Grande do Sul,Sul,9711.27,8200
+Loja 970,Rio de Janeiro,Sudeste,6635.29,8200
+Loja 971,Tocantins,Norte,9542.25,8500
+Loja 972,Roraima,Norte,8566.28,7800
+Loja 973,Alagoas,Nordeste,6613.71,7200
+Loja 974,Santa Catarina,Sul,9563.69,7800
+Loja 975,Mato Grosso do Sul,Centro-Oeste,9569.47,8500
+Loja 976,Sergipe,Nordeste,8153.67,7200
+Loja 977,Espírito Santo,Sudeste,6216.39,7800
+Loja 978,Minas Gerais,Sudeste,7974.99,8500
+Loja 979,Rio Grande do Sul,Sul,8629.86,8500
+Loja 980,Pará,Norte,6069.27,7200
+Loja 981,Paraíba,Nordeste,9417.96,8000
+Loja 982,Paraná,Sul,9618.89,7200
+Loja 983,Pará,Norte,6570.87,7000
+Loja 984,Minas Gerais,Sudeste,9353.02,8200
+Loja 985,Pernambuco,Nordeste,8629.77,8500
+Loja 986,Rio Grande do Sul,Sul,9848.65,8200
+Loja 987,Amazonas,Norte,9591.38,8500
+Loja 988,Pernambuco,Nordeste,7247.58,7000
+Loja 989,Santa Catarina,Sul,6841.66,7500
+Loja 990,Paraíba,Nordeste,7695.3,7500
+Loja 991,São Paulo,Sudeste,9725.13,8000
+Loja 992,Tocantins,Norte,8257.12,8000
+Loja 993,Minas Gerais,Sudeste,8745.72,7000
+Loja 994,Piauí,Nordeste,8288.95,7200
+Loja 995,Pará,Norte,9173.72,7500
+Loja 996,Pernambuco,Nordeste,9764.54,7000
+Loja 997,Rio Grande do Norte,Nordeste,7868.79,8200
+Loja 998,Bahia,Nordeste,8086.27,8200
+Loja 999,Roraima,Norte,7940.98,7500
+Loja 1000,Roraima,Norte,7360.6,7000
