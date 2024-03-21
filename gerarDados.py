@@ -11,8 +11,22 @@ caminho = []
 #Recebendo do terminal o ano para gerar os dados: 
 ano = input("Digite um ano para gerar as informações aleatoriamente: ")
 
-#transformando a variavel ano em inteiro para operações: 
-ano=int(ano)
+if ano.isnumeric() and (len(ano)==4) and 1960<=int(ano)<2024:
+    #transformando a variavel ano em inteiro para operações: 
+    ano=int(ano)
+else: 
+    print("Você não respeitou as condições para gerar dados!")
+    print("Por favor, tente novamente respeitando as seguintes intruções: ")
+    print("- Ano tem que ser composto apenas de números")
+    print("- Tem que ter necessariamente 4 digitos! exemplo; 1990")
+    print("- Deve necessariamente ser do intervalo de 1960 até 2023")
+    ano = input("Tente novamente digitar o ano, seguindo as instruções: ")
+    if ano.isnumeric() and (len(ano)==4) and 1960<=int(ano)<2024:
+    #transformando a variavel ano em inteiro para operações: 
+        ano=int(ano)
+    else:
+        print("Condições não respeitadas, fim da execução do programa")
+        exit()
 
 #Metodo para validar se o ano é bissexto 
 def bissexto(ano):
@@ -49,9 +63,6 @@ for n in range(len(meses)):
             caminho.append('./'+str(ano)+'/'+ '0' + str(n+1) + ' - ' + str(meses[n]) + '/')
 
 #Declaração de listas e variaveis para manipular os dados: 
-lojas = []
-endereco = []
-regiao = []
 num_lojas=1000
 estados = ["Amazonas", "Pará", "Roraima", "Amapá", "Rondônia", "Acre", "Tocantins",
            "Piauí", "Maranhão", "Pernambuco", "Rio Grande do Norte", "Paraíba", "Ceará", "Bahia", "Alagoas", "Sergipe",
@@ -59,27 +70,54 @@ estados = ["Amazonas", "Pará", "Roraima", "Amapá", "Rondônia", "Acre", "Tocan
            "São Paulo", "Rio de Janeiro", "Espírito Santo", "Minas Gerais",
            "Rio Grande do Sul", "Paraná", "Santa Catarina"]
 
-
-#Laço para gerar nome de lojas e gerar aleatoriamente estado e região: 
-for n in range(num_lojas):
-    lojas.append("Loja " + str(n+1))
-    i = random.randint(0,25)
-    endereco.append(estados[i])
-    if 0 <= i < 7:
-        regiao.append("Norte")
-    elif 7<= i < 16:
-        regiao.append("Nordeste")
-    elif 16<= i < 19:
-        regiao.append("Centro-Oeste")
-    elif 19<= i <23:
-        regiao.append("Sudeste")
-    elif 23<= i <26:
-        regiao.append("Sul")
-    else: 
-        pass
-
 #estipulando metas: 
 metas = [7000, 7200, 7500, 7800, 8000, 8200, 8500]
+#Laço para gerar nome de lojas e gerar aleatoriamente estado e região: 
+
+if os.path.isfile('dados_de_lojas.txt'):
+    pass
+else: 
+    dadosloja= open("dados_de_lojas.txt","w")
+    cabeca = "Loja, Estado, Região, Meta de Vendas \n"
+    dadosloja.write(cabeca)
+    for n in range(num_lojas):
+        i = random.randint(0,25)
+        k = random.randint(0,6)
+        if 0 <= i < 7:
+            regiao = "Norte"
+        elif 7<= i < 16:
+            regiao = "Nordeste"
+        elif 16<= i < 19:
+            regiao = "Centro-Oeste"
+            
+        elif 19<= i <23:
+            regiao = "Sudeste"
+        elif 23<= i <26:
+            regiao = "Sul"
+        else: 
+            pass
+        
+        info_lojas = "Loja " + str(n+1)+ ", " + estados[i] + ", " + regiao + ", " + str(metas[k]) + "\n"
+        dadosloja.write(info_lojas)
+        dadosloja.closed
+
+lojas = []
+dadosloja= open("dados_de_lojas.txt","r")
+for line in dadosloja:
+    lojas.append(line.split(','))
+
+dadosloja.closed
+nome_loja = []
+estado_loja = []
+regiao_loja = []
+meta_loja = []
+for n in range (1, len(lojas)):
+    nome_loja.append(lojas[n][0])
+    estado_loja.append(lojas[n][1])
+    regiao_loja.append(lojas[n][2])
+    meta_loja.append(int(lojas[n][3]))
+
+
 
 #Gerando os dados de 
 for n in range(len(dias_meses)):
@@ -90,26 +128,7 @@ for n in range(len(dias_meses)):
         with open(local, 'w', newline='') as arquivocsv:
             csv.writer(arquivocsv, delimiter=',').writerow(['Loja', 'Estado', 'Região', 'Valor vendido', 'Meta de Vendas'])
 
-            for j in range(len(lojas)):
+            for j in range(len(nome_loja)):
                 vendas = random.uniform(6000, 10000)
-                k = random.randint(0,6)
-                meta = metas[k]
-                csv.writer(arquivocsv, delimiter=',').writerow([lojas[j], endereco[j], regiao[j], str(round(vendas, 2)), str(meta)])
+                csv.writer(arquivocsv, delimiter=',').writerow([nome_loja[j], estado_loja[j], regiao_loja[j], str(round(vendas, 2)), str(meta_loja[j])])
                 arquivocsv.closed
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
