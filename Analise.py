@@ -38,6 +38,8 @@ total_vendas = df_concat.groupby('Loja')['Valor vendido'].sum()
 
 top_10 = total_vendas.sort_values(ascending=False).head(10)
 
+red_10 = top_10 = total_vendas.sort_values(ascending=False).tail(10)
+
 total_vendas = df_concat['Valor vendido'].sum()
 
 
@@ -76,4 +78,34 @@ ax.pie(top_10,labels=top_10.index,
        autopct=lambda p: 'R$ {:.2f}'.format((sum(top_10)*p/100))
       )
 plt.title("Total em reais da top 10 de lojas que mais venderam ")
+plt.show()
+
+
+
+
+#Red 10 lojas
+#as 10 piores lojas da franquia em porcetagem de vendas e valor adquirido: 
+
+#criando a figura e eixos para o gráfico: 
+fig, ax = plt.subplots()
+#Plotando o grafico: 
+ax.pie(red_10,labels=red_10.index,
+       colors=lista_cores,
+      explode = posi,
+       textprops={'fontsize': 5},
+       autopct=lambda p: '{:.5f}%'.format(((sum(red_10)*p/100)/total_vendas)*100)
+      )
+plt.title("Percentual das 10 piores lojas da franquia:  ")
+plt.show()
+
+
+#criando a figura e eixos para o gráfico: 
+fig, ax = plt.subplots()
+ax.pie(red_10,labels=red_10.index,
+       colors=lista_cores,
+      explode = posi,
+       textprops={'fontsize': 5},
+       autopct=lambda p: 'R$ {:.2f}'.format((sum(red_10)*p/100))
+      )
+plt.title("Total em reais da das lojas que menos venderem na franquia")
 plt.show()
